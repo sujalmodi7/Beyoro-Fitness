@@ -64,4 +64,3 @@ Android Developer | Kotlin Enthusiast
 
 ---
 
-> This project is built for learning, portfolio, and production-level Android development.
